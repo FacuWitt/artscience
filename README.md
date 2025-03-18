@@ -1,2 +1,2 @@
 # artscience
-ArtScience is a web platform for those exploring top scientific topics from prestigious publications. It covers technological innovations, quantum physics, AI, neuroscience, sociology, and human behavior, including classic (Newton, Einstein) and modern theories (Higgs boson, quantum computing). It also features gaming devlogs and more.
+ArtScience is a web platform designed for those interested in exploring topics covered in scientific articles from the world's most prestigious publications. It aims to bridge the gap between cutting-edge research and curious minds, offering insights into fields like quantum mechanics, artificial intelligence, neuroscience, and complex systems.
